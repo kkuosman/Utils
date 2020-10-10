@@ -3,6 +3,11 @@
 """
 Created on Sat Oct 10 16:28:37 2020
 
+Displays contour spectrogram of a given file.
+This is mostly equivalent to a regular spectrogram,
+but may reveal different things, due to the way contours
+are presented.
+
 @author: kkuosman
 @version: 0.9
 """
